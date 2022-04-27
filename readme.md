@@ -1,2 +1,2 @@
 # Appgini test
-new appgini northwind udemy test project.
+new appgini northwind udemy test project!
